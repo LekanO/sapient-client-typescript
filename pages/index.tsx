@@ -3,7 +3,7 @@ import Head from 'next/head';
 import { useQuery } from '@apollo/client';
 import Users from './users';
 
-import QUERY_NAMES from './NamesQuery.graphql';
+import QUERY_NAMES from '../query/namesQuery.graphql';
 
 interface Props {
 
