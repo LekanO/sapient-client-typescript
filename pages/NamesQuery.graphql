@@ -1,0 +1,12 @@
+query {
+  name {
+    name,
+    address1,
+    address2,
+    city,
+    country,
+    zip_code,
+    email,
+    tel
+  }
+}
